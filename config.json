@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "concepts",
+      "label": "Dimensiones y Métricas",
+      "elements": [
+        {
+          "id": "allFields",
+          "label": "Campos de la Tabla",
+          "type": "METRIC_AND_DIMENSION",
+          "options": {
+            "min": 1
+          }
+        }
+      ]
+    }
+  ]
+}
