@@ -1,6 +1,16 @@
 {
-  "id": "info_popup_button",
-  "label": "Botón con Popup (Manifest)",
-  "main": "info_popup.js",
-  "dependencies": []
+  "name": "Botón Popup de Tabla",
+  "company": "Tu Nombre o Empresa",
+  "description": "Muestra un botón que al hacer clic abre un popup con datos de una tabla.",
+  "logoUrl": "https://www.gstatic.com/images/icons/material/system/2x/info_grey600_24dp.png",
+  "organization": "Tu Organización",
+  "supportUrl": "https://looker.google.com/studio",
+  "packageUrl": "gs://<TU-BUCKET>/",
+  "devMode": true,
+  "privacyPolicyUrl": "https://looker.google.com/studio",
+  "termsOfServiceUrl": "https://looker.google.com/studio",
+  "resources": {
+    "js": "gs://<TU-BUCKET>/visualization.js",
+    "config": "gs://<TU-BUCKET>/config.json"
+  }
 }
