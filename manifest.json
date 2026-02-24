@@ -1,0 +1,6 @@
+{
+  "id": "info_popup_button",
+  "label": "Botón con Popup (Manifest)",
+  "main": "info_popup.js",
+  "dependencies": []
+}
